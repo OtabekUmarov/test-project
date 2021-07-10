@@ -14,6 +14,10 @@
   font-family: 'g-r';
   src: url(../fonts/Gilroy-Regular.otf);
 }
+::selection {
+  color: #5A89FF;
+  background-color: #e0dbdb;
+}
 body {
   font-family: 'g-r', serif;
   color: #2B3042;
